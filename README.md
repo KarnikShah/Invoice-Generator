@@ -6,4 +6,6 @@
 
 > The Generated Invoice or Challan can be Downloaded or Mailed to the respective Customer.
 
-#### Note: For using the Mail feature just in the Website just  
+#### Note: For using the Mail feature you need to just change some files like 
+1. In function.inc.php change test1@gmail.com to Sender's Mail Id. And also change password to Sender's Mail Password.
+2. In pdf.php change test@gmail.com to Reciever's Mail Id.
