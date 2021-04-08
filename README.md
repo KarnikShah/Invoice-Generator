@@ -4,4 +4,6 @@
 
 > Now using this Website they can Generate Invoice and Challan from any place. Also we have given features like Adding Different Products, View Generated Invoice, Compare Different Stats, Add and Update Users, etc.
 
-#### Note:
+> The Generated Invoice or Challan can be Downloaded or Mailed to the respective Customer.
+
+#### Note: For using the Mail feature just in the Website just  
