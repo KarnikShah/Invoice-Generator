@@ -11,5 +11,5 @@
 2. In pdf.php change test@gmail.com to Reciever's Mail Id.
 
 
-### The Sample Template of our Invoice is shown Below
+#### The Sample Template of our Invoice is shown below:
 <img height="600px" widht="250px" src="https://user-images.githubusercontent.com/61194871/114027582-239d6a00-9895-11eb-9861-ed7b21d5b5a0.png"/>
