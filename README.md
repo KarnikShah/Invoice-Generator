@@ -12,4 +12,6 @@
 
 
 ### The Sample Template of our Invoice is shown Below
-<img height="200px" widht="200px" src"https://user-images.githubusercontent.com/61194871/114027582-239d6a00-9895-11eb-9861-ed7b21d5b5a0.png"/>
+<img height="500px" widht="200px" src="https://user-images.githubusercontent.com/61194871/114027582-239d6a00-9895-11eb-9861-ed7b21d5b5a0.png"/>
+
+<img height="600px" width="350px" src="https://user-images.githubusercontent.com/61194871/112621397-b1b63100-8e4f-11eb-9d5a-353dc4399e0c.png"/>
