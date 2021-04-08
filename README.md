@@ -9,3 +9,7 @@
 #### Note: For using the Mail feature you need to just change some files like 
 1. In function.inc.php change test1@gmail.com to Sender's Mail Id. And also change password to Sender's Mail Password.
 2. In pdf.php change test@gmail.com to Reciever's Mail Id.
+
+
+### The Sample Template of our Invoice is shown Below
+(https://user-images.githubusercontent.com/61194871/114027582-239d6a00-9895-11eb-9861-ed7b21d5b5a0.png)
