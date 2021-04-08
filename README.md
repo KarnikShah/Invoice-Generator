@@ -12,4 +12,10 @@
 
 
 #### The Sample Template of our Invoice is shown below:
+
 <img height="600px" widht="250px" src="https://user-images.githubusercontent.com/61194871/114027582-239d6a00-9895-11eb-9861-ed7b21d5b5a0.png"/>
+
+
+#### The PDF Downloaded or Mailed will look like below:
+
+<img src="https://user-images.githubusercontent.com/61194871/114028818-87746280-9896-11eb-9a4d-a5b627283cf2.png"/>
